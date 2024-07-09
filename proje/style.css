@@ -125,7 +125,7 @@ background-color: orange;
   }
   
   .footer {
-    background-color: white;
+    background-color:white;
     padding: 70px 0;
   }
   
@@ -162,10 +162,10 @@ background-color: orange;
   .footer-col ul li a {
     font-size: 16px;
     text-transform: capitalize;
-    color: #ffffff;
+    color:#C8C8C8;
     text-decoration: none;
     font-weight: 300;
-    color: #bbbbbb;
+    color: black;
     display: block;
     transition: all 0.3s ease;
   }
@@ -223,6 +223,38 @@ h5{
   text-align: left;
   font-size:  14px;
 }
+
+h6{
+  
+  font-size: 30px;
+}
+
+
+
+
+.footer-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 0px;
+  background-color:azure
+  width 100%;
+  
+}
+.footer-logo{
+  width: 180px;
+  height: auto;
+}
+.social-icons a{
+  color: blue;
+  margin-left: 20px;
+  font-size: 24px;
+  text-decoration: none;
+}
+.social-icons a:hover{
+  color: black;
+}
+
 
 
 
